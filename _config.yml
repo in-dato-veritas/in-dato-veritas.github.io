@@ -1,13 +1,13 @@
 # Site settings
-title: Spectral
-email: youremailaddress@gmail.com
-description: The Jekyll version of the Spectral theme by HTML5 UP.
+title: Arcadia
+email: hello@seemplr.com
+description: A public open-source infrastructure for the creation, visualisation and control by users of data–driven knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://in-dato-veritas.github.io" # the base hostname & protocol for your site
+url: "https://www.arcadia.network" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 4
 
 # Misc settings
 featured-image-source:
@@ -15,14 +15,15 @@ featured-image-source:
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+github_url: https://github.com/in-dato-veritas
+gitlab_url:
+googleplus_url:
 instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url:
 pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+slack_url: http://arcadnet.slack.com
+twitter_url:
+telegram_url: https://t.me/joinchat/C8XhMQxEGhSGBrvQT0hW2A
 
 # Build settings
 markdown: kramdown
